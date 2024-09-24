@@ -1,7 +1,3 @@
-Here's a sample README for your automation testing project on [Demoblaze](https://www.demoblaze.com/index.html):
-
----
-
 # Demoblaze Automation Testing Project
 
 ## Project Overview
@@ -50,7 +46,7 @@ mvn test
 
 ## Test Cases
 The project includes automated test cases for the following features of the Demoblaze website:
-- **User Registration**: Verifies the user registration process.
+- **User Signup**: Verifies the user sign-up process.
 - **Login**: Tests the login functionality with valid and invalid credentials.
 - **Product Search**: Ensures the search functionality works correctly.
 - **Add to Cart**: Tests adding products to the shopping cart.
@@ -67,12 +63,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README to better fit your project's specifics. If you need further assistance, let me know! 😊
-
-Source: Conversation with Copilot, 9/24/2024
-(1) Robot Framework Template Repository - GitHub. https://github.com/BVisagie/robot-framework-template.
-(2) test-automation-quickstart/README.md at master - GitHub. https://github.com/opencredo/test-automation-quickstart/blob/master/README.md.
-(3) A template to make good README.md · GitHub. https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
-(4) Test Plan Template For Test Automation Process - BugBug.io. https://bugbug.io/blog/software-testing/automation-test-plan-template/.
