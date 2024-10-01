@@ -10,13 +10,9 @@ public class HomePage {
         this.driver = driver;
     }
 
-    private By RegisterationButton = By.xpath("/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/ul/li[1]/a");
     private By SignupButton = By.xpath("//*[@id=\"signin2\"]");
 
-    public RegisterationPage clickRegisterationButton(){
-        driver.findElement(RegisterationButton).click();
-        return new RegisterationPage(driver);
-    }
+
     public SignupPage clickSignupButton(){
         driver.findElement(SignupButton).click();
         return new SignupPage(driver);
