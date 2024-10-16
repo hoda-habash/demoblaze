@@ -48,7 +48,6 @@ mvn test
 The project includes automated test cases for the following features of the Demoblaze website:
 - **User Signup**: Verifies the user sign-up process.
 - **Login**: Tests the login functionality with valid and invalid credentials.
-- **Product Search**: Ensures the search functionality works correctly.
 - **Add to Cart**: Tests adding products to the shopping cart.
 - **Checkout Process**: Verifies the checkout process, including payment.
 
