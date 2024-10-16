@@ -2,19 +2,15 @@
   "Website": "https://www.demoblaze.com/index.html",
   "Signup": {
     "ValidSignupData": {
-      "Username": "Mohamed",
-      "Password": "mohamed123"
+      "Username": "Aliaa",
+      "Password": "100"
     },
     "InvalidSignupData" : {
-      "Invalidemail" : {
-        "Firstname": "Mohamed",
-        "Lastname": "Ahmed",
-        "Email": "mohamedaboulhassan72  @gmail.com",
-        "Password": "mohamed123",
-        "ConfirmPassword" : "mohamed123",
-        "Company" : "ABC"
-
+      "EmptySignup": {
+        "Username": "",
+        "Password": ""
       }
+
 
 
     }
